@@ -1,0 +1,9 @@
+# speakers list
+speakers.txt
+
+# training set
+*.gzbin
+
+# audio chunks
+Audio-slicing/splitAudio/*
+!splitAudio/.gitkeep 
